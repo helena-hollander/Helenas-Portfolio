@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+color: rgb(57, 255, 255);
+background-color: blue;
+font-family: 'Courier New', Courier, monospace;
+font-size: 10em
+
+
+}
+
+h2 {
+    margin: 30px;
+    font-size: 3em;
+}
+
+
+body {
+    /*margin: 40px;*/
+    color: fuchsia;
+    background-color: rgb(147, 255, 143);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.5em
+    
+}
+
+.about {
+margin: 30px;
+background-color: aqua;
+}
