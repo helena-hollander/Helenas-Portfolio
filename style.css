@@ -31,3 +31,11 @@ body {
 margin: 30px;
 background-color: aqua;
 }
+
+.gallery {
+    width: 50%;
+}
+
+.pics {
+    width: 25%;
+}
