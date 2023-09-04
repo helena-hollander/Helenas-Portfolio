@@ -27,6 +27,16 @@ body {
     
 }
 
+#listetitel {
+    color: rgb(0, 0, 255);
+    font-weight: 400;
+    font-style: italic;
+}
+#inspiration {
+    margin-left: 20px;
+    font-size: 2em;
+}
+
 .about {
 margin: 30px;
 background-color: aqua;
